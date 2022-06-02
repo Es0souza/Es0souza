@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Edgard de Souza !
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Edgard de Souza">
 
 <p align="left"> 
   Olá, meu nome é Edgard de Souza. Sou <strong>Desenvolvedor de Front-End e Back-End</strong>.<br>
-  Estudo programação na Alura.
+  Estudo programação na origamid e alura e rocketseat.
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
 <code> <img height = "32" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt = "Angular" /> </code>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Figma, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VsCode, Figma, Gimp, Git e GitHub.</strong>
 </p>
 
  
