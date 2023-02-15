@@ -3,7 +3,8 @@
 
 <p align="left"> 
   Olá, meu nome é Edgard de Souza. Sou <strong>Desenvolvedor Front-End</strong>.<br>
-  Estudo programação na origamid, alura e rocketseat.
+  Estudo programação na origamid, alura e rocketseat.<br>
+  Atualmente, sou estudante de <strong>Engenharia de Software</strong> pela Universidade Estácio de Sá.
 </p>
 
 <p align="left">
